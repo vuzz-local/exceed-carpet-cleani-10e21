@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vuzz-local.github.io/exceed-carpet-cleani-10e21/sitemap.xml
+Sitemap: https://exceed-carpet-cleani-10e21.pages.dev/sitemap.xml
